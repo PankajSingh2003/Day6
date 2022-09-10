@@ -1,0 +1,28 @@
+to perform different form of functionality or some particular task
+they are inside a paranthesis
+start out with the keyword def name_of_the_function
+and then a colon:
+
+eg. def my_function():
+	print("Hello")
+	pritn("Bye")
+my_function()
+
+use ctr + [] to itndedate the code properly
+
+
+identation is one of the most crucial  to know about python language as it is one of the key things in python
+spaces are prefered over tab you earn more in that 
+give 4 spaces to get the perfect indentation
+while loop:
+	robot plug example 
+	eg while someehing_is_true:
+		condition
+	until condition becomes false
+	each thing we need to do 
+	then use for loop
+	when no of sequence you are in 
+	until some sort of condition is met in for loop you set the range
+	while loop continue running so they are kind of dangerous chance of infinite loop
+to remove such errors print can be very beneficial
+edge cases is the thing then this the one of the clear are someof the special cases
